@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern;
+package com.fynnjason.lockpattern;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

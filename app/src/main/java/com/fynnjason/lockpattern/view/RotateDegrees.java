@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern.view;
+package com.fynnjason.lockpattern.view;
 
 public class RotateDegrees {
 

@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern;
+package com.fynnjason.lockpattern;
 
 import org.junit.Test;
 

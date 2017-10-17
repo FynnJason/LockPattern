@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern;
+package com.fynnjason.lockpattern;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,8 +6,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.zhuanghongji.lockpattern.util.PreferenceUtil;
-import com.zhuanghongji.lockpattern.view.LockPatternView;
+import com.fynnjason.lockpattern.util.PreferenceUtil;
+import com.fynnjason.lockpattern.view.LockPatternView;
 
 public class UnlockActivity extends AppCompatActivity {
 

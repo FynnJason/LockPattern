@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern.view;
+package com.fynnjason.lockpattern.view;
 
 public class Point {
     public static int BITMAP_NORMAL = 0; // 正常

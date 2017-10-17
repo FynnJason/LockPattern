@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern.view;
+package com.fynnjason.lockpattern.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -11,7 +11,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.zhuanghongji.lockpattern.R;
+import com.fynnjason.lockpattern.R;
 
 import java.util.ArrayList;
 import java.util.List;

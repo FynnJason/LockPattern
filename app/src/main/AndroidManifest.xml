@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.zhuanghongji.lockpattern"
+    package="com.fynnjason.lockpattern"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -9,10 +9,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.fynnjason.lockpattern.MainActivity">
         </activity>
         <activity
-            android:name=".WelcomeActivity"
+            android:name="com.fynnjason.lockpattern.WelcomeActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -21,11 +21,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".UnlockActivity"
+            android:name="com.fynnjason.lockpattern.UnlockActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         </activity>
         <activity
-            android:name=".SetLockActivity"
+            android:name="com.fynnjason.lockpattern.SetLockActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         </activity>
     </application>

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.zhuanghongji.lockpattern.UnlockActivity">
+    tools:context="com.fynnjason.lockpattern.UnlockActivity">
 
     <TextView
         android:layout_width="match_parent"

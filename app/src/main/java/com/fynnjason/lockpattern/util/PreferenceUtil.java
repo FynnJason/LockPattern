@@ -1,4 +1,4 @@
-package com.zhuanghongji.lockpattern.util;
+package com.fynnjason.lockpattern.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;

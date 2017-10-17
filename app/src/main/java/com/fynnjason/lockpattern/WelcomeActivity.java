@@ -1,11 +1,11 @@
-package com.zhuanghongji.lockpattern;
+package com.fynnjason.lockpattern;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
-import com.zhuanghongji.lockpattern.util.PreferenceUtil;
+import com.fynnjason.lockpattern.util.PreferenceUtil;
 
 
 public class WelcomeActivity extends AppCompatActivity {

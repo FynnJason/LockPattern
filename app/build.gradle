@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+group='com.github.fynnjason'
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"

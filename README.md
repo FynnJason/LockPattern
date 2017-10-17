@@ -101,7 +101,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 ```
-详细内容请参考源码。
-
-源码下载：https://github.com/zhuanghongji/LockPattern 
 

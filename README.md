@@ -2,7 +2,20 @@
 Android 九宫格图案解锁源码解析
 
 [![](https://jitpack.io/v/FynnJason/LockPattern.svg)](https://jitpack.io/#FynnJason/LockPattern)
+```java
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
 
+```java
+	dependencies {
+	        compile 'com.github.FynnJason:LockPattern:1.0'
+	}
+```
 ###一、简介
 该实例应用一打开，首先进入"欢迎页" WelcomeActivity，然后判断SharePreference中“是否设置了密码”。
 

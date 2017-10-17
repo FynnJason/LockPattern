@@ -1,5 +1,7 @@
 # LockPattern
-Android 九宫格图案解锁源码解析，"程序锁"模拟场景使用。
+Android 九宫格图案解锁源码解析
+
+[![](https://jitpack.io/v/FynnJason/LockPattern.svg)](https://jitpack.io/#FynnJason/LockPattern)
 
 ###一、简介
 该实例应用一打开，首先进入"欢迎页" WelcomeActivity，然后判断SharePreference中“是否设置了密码”。
